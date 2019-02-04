@@ -1,4 +1,4 @@
-# This project has been discared, this repository is still available to see how GBDK works (In fact GBZ80 is better than this obviously :D)
+# This project has been discared, this repository is still available to see how GBDK works (In fact GBZ80 is better than thas obviously :D)
 
 # TV-B-Boy
 Use your GBC as an universal remote like the TV-B-Gone
