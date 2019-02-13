@@ -1,4 +1,4 @@
-# This project has been discontinued, this repository is still available to see how GBDK works (In fact GBZ80 is better than this obviously :D)
+# This project has been discontinued, this repository is still available to see how GBDK works
 
 # TV-B-Boy
 Use your GBC as an universal remote like the TV-B-Gone
@@ -8,5 +8,5 @@ EDIT : A rewrite from scratch in GBZ80 Assembly is necessary because GBDK doesn'
 
 ## How to compile it
 1. Clone the git
-2. Put the content of the include folder on your include folder located in your GDK copy
+2. Put the content of the include folder on your include folder located in your GBDK copy
 3. Compile it "**lcc -Wl-yp0x143=0x80 -o TVBB.gbc TV-B-Boy.c**"
